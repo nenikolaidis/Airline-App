@@ -77,19 +77,19 @@
    
 ### Διαχειριστής
 
--Admin Home
+- Admin Home
 
 ![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/e44231c1-d47b-410e-a7d8-f6a076794fe0)
 
--Create Flight
+- Create Flight
 
 ![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/fd1bb2f2-5580-412e-ae73-450eba72da9f)
 
--Update Ticket Price
+- Update Ticket Price
 
 ![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/dc021bcd-c7d8-452a-ac5b-d4b235f28963)
 
--Delete Flight
+- Delete Flight
 
 ![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/1f4ec61a-2c3e-4fcc-99dd-03405c830eb5)
 
@@ -100,7 +100,7 @@
 
 ### Απλός χρήστης
 
--Simple User Home
+- Simple User Home
 
 ![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/51650538-9902-4f79-8cec-0c58055759c0)
 
@@ -127,7 +127,7 @@
 
 4. Κοινές διαδικασίες και για τους 2 χρήστες
 
--Search Flight
+- Search Flight
 
 all
 
@@ -141,7 +141,7 @@ by_date
 
 ![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/753c5dd4-3024-40ef-ab46-bafc6d6be7e6)
 
--Logout
+- Logout
 
 ![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/b09e41b0-8fb0-4728-9e8d-43df57fa9dd8)
 
