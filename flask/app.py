@@ -89,8 +89,7 @@ def generate_code():
 def home():
     main_urls = [
         "/userRegistration (POST)",
-        "/login (POST)",
-        "/adminHome"
+        "/login (POST)"
     ]
 
     response = {
