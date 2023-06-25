@@ -71,13 +71,8 @@
 
 1. Ανοίγωντας την εφαρμογη θα βρεθούμε στην Αρχική Σελίδα απο εκεί είτε θα κάνουμε User Registration είτε θα κάνουμε Login
 
-Admin Home
 
-![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/6dfd0def-3821-4015-b927-17fe16623d54)
 
-Simple User Home
-
-![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/51650538-9902-4f79-8cec-0c58055759c0)
 
 
 2. Μέτα το login
@@ -85,6 +80,7 @@ Simple User Home
 ### Διαχειριστής
 
 -Admin Home
+
 ![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/e44231c1-d47b-410e-a7d8-f6a076794fe0)
 
 -Create Flight
@@ -105,6 +101,10 @@ Simple User Home
 
 
 ### Απλός χρήστης
+
+-Simple User Home
+
+![image](https://github.com/nenikolaidis/YpoxreotikiErgasia23_e20113_Nikolaidis_Nearchos/assets/129533209/51650538-9902-4f79-8cec-0c58055759c0)
 
 - Make Reservation
 
